@@ -32,10 +32,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/4a7edd0e-9844-4152-b92f-0037d9fc2e64)
+![image](https://github.com/VARSHINI22009118/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119401150/4efea43b-2b02-4b80-8f08-eb4013c2e81a)
 
 ### Output:
-![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/903b6bb8-e31e-4cf4-85de-a59321006683)
+![image](https://github.com/VARSHINI22009118/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119401150/2fa8ab18-a7c9-408c-80ae-05dd98973536)
+
 
 
 ### Name:  VARSHINI S A
